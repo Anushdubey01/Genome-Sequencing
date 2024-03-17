@@ -37,8 +37,6 @@ The Python notebook provided in this repository performs analysis on the genome 
 ## Usage
 To explore the analysis and results, simply open the `genome_sequencing_analysis.ipynb` notebook in a Jupyter environment or any compatible platform.
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
 
 Feel free to contribute, share, and explore the fascinating world of genomics! If you have any questions or suggestions, please don't hesitate to contact me.
 
